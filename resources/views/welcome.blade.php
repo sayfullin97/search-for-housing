@@ -18,9 +18,7 @@
     <body class="antialiased">
 
         <header>
-            <div>
-                <h1>test</h1>
-            </div>
+
         </header>
 
     </body>
